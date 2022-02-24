@@ -1,6 +1,9 @@
 Commit test
+<<<<<<< HEAD
 testing line
+=======
 antesting line
+>>>>>>> dee1400d9d70f854c67685cd4a30e5edcb1a80fd
 456
 789
 10 11 12
